@@ -6,7 +6,6 @@ I enjoy the world of cybersecurity and thrive on solving real-world challenges t
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/JBandCyber/Vulnerability-Management-Program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)]**
 
 ## 🚨 Threat Hunting and Security Operations
 
