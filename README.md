@@ -1,52 +1,32 @@
-<h1>Hi, I'm John! <br/></a> <a href="https://github.com/jbandcyber">Projects</a>, <a href="https://www.linkedin.com/">Cybersecurity Professional </a>, <a href="https://www.youtube.com/">YouTuber</a></h1>
-Currently, loving Vulnerability Management, identifying vulnerabilities and implementing effective mitigation strategies to fortify organizational defenses in a hybrid environment.
+# <a href="www.linkedin.com/in/john-burris-hrsec">John Burris</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-</br>😄 Fun fact: I have been going down the rabbit hole with learning Quantum Cryptography and Post-Quantum Cryptography
-
-<h2>👨‍💻 Security Projects:</h2>
-
-- <b>Setup SIEM in Azure</b>
-  - [Link to setup coming soon]
-- <b>Setup Virtual Active Directory Environment in Azure</b>
-  - [Link to setup coming soon]
-- <b>Setup Vulnerability Management </b>
-  - [Link to setup coming soon]<b><i>(AWS & Azure)</b></i>
-- <b> GRC Simulation </b>
-  - [Link to setup coming soon]
+I enjoy the world of cybersecurity and thrive on solving real-world challenges through hands-on projects. My work spans areas like vulnerability management, threat detection, and security operations, reflecting both my technical skills and commitment to staying current in a rapidly evolving field. Feel free to explore my projects to see how I apply practical solutions to today’s cybersecurity threats.
 
 
-<h2>📺 Popular YouTube Videos</h2>
+## ⚠️ Vulnerability Management Projects
 
-- [How to get into Cybersecurity Starting From Zero]()
-- [A Day in the Life of a Vulnerability Management Analyst]()
+- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
-<h2> 🤳 Connect with me:</h2>
+## 🚨 Threat Hunting and Security Operations
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 
+<hr/>
 
-[youtube]: https://www.youtube.com/c/
-[instagram]: https://www.instagram.com/whatjbthinks/
-[linkedin]: https://linkedin.com/in/john-burris-13568aa/
+## 🤳 Connect With Me
+
+[<img align="left" alt="___________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="___________ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="___________ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[twitter]: https://twitter.com/___________
+[youtube]: https://www.youtube.com/c/___________
+[instagram]: https://www.instagram.com/___________
+[linkedin]: https://linkedin.com/in/___________
 
 <!--
-
-<!--
-
-**JBandCyber/JBandCyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
+<img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
 -->
-
-
